@@ -2,5 +2,5 @@
 
 Comparto la solución para el desafío Forohub para desarrollar una API Rest usando Spring con el objetivo de implementar un CRUD
 
-Tecnoligías utilizadas
+Tecnologías utilizadas
 Spring MySql
