@@ -1,0 +1,2 @@
+ALTER TABLE usuarios
+AND COLUMN nombre VARCHAR(100) NOT NULL;
